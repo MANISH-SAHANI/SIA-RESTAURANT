@@ -1,0 +1,66 @@
+#navbar{
+    flex-direction: column;
+}
+
+#home{
+    height: 650px;
+    padding: 4px 0px;
+}
+
+#home::before{
+
+    height: 103%;
+}
+#logo img{
+    width: 10vw;
+}
+
+#navbar ul li a{
+    margin: 0px -54px;
+    padding: 0px 62px;
+}
+
+#navbar ul li a:hover{
+    font-weight: bold;
+
+}
+
+.heading{
+    padding: 2px 0px;
+}
+
+#services1{
+    flex-direction: column;
+    padding: 18px 172px;
+    
+}
+
+#services1 .box1{
+    margin: 13px -106px;
+}
+
+#services2{
+    flex-direction: column;
+    padding: 18px 172px;
+}
+
+#services2 .box2{
+    margin: 13px -106px;
+}
+
+#client{
+    flex-direction: column;
+
+}
+
+#services1 .respo img{
+    height: 115px;
+}
+
+#services2 .respo img{
+    height: 115px;
+}
+
+#contact-sec::before {
+    height: 63%;
+}
