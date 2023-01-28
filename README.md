@@ -9,7 +9,7 @@ help of Sia Restaurant's website, customers can choose their favorite meals in n
 
 SIA-RESTAURANT - https://siarestaurant.netlify.app
 
-![siares](https://user-images.githubusercontent.com/91081774/215257679-3d0e0e95-2674-4e18-bdce-d38999e0a41f.png)
+
 
 ## Customize the Template
 
