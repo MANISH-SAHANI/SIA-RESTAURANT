@@ -16,6 +16,7 @@ SIA-RESTAURANT - https://siarestaurant.netlify.app
 If you want to customize the template with css then follow the setup
 
 Download the repository and extract files
+
 Open this folder with Visual Studio Code and run below commands in VS terminal
 
 
